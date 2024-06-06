@@ -1,0 +1,11 @@
+fc: BlackCatMystery42_ctc_JVJ_Geo_ffly.cbz, GreenHornet07_minusGH.cbz
+tableContents: BlackCatMystery42_ctc_JVJ_Geo_ffly.cbz, GreenHornet07_minusGH.cbz
+ad: BlackCatMystery42_ctc_JVJ_Geo_ffly.cbz, GreenHornet07_minusGH.cbz
+info: BlackCatMystery42_ctc_JVJ_Geo_ffly.cbz, GreenHornet07_minusGH.cbz
+bc: BlackCatMystery42_ctc_JVJ_Geo_ffly.cbz, GreenHornet07_minusGH.cbz
+ifctexttilted: BlackCatMystery42_ctc_JVJ_Geo_ffly.cbz, GreenHornet07_minusGH.cbz
+ibctilted: BlackCatMystery42_ctc_JVJ_Geo_ffly.cbz, GreenHornet07_minusGH.cbz
+ifc: GreenHornet07_minusGH.cbz
+3combined: GreenHornet07_minusGH.cbz
+ibc: GreenHornet07_minusGH.cbz
+houseAd: GreenHornet07_minusGH.cbz
